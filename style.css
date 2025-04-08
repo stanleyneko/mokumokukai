@@ -1,0 +1,32 @@
+body {
+  width: 700px;
+  height: 2000px;
+  margin: auto;
+}
+h1 {
+  font-family: lexend;
+}
+
+h2 {
+  font-family: monospace;
+  width: 700px;
+}
+
+p {
+  font-family: monospace;
+  font-size: large;
+}
+
+#header-image {
+  width: 30%;
+}
+
+.zoom-image {
+  width: 100%;
+  transition: transform 0.1s ease-out;
+  display: block;
+}
+
+.empty-div {
+  margin: 100px;
+}
